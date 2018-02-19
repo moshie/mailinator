@@ -1,5 +1,7 @@
 # Mailinator
 
+> **NOTE** Still very much in the beta phase!
+
 Mailinator is a Lambda function for sending mail using various mail services.
 
 Supported
